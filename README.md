@@ -4,11 +4,11 @@
 This notebook uses unsupervised learning techniques to identify customer segments using data from Bertelsmann Arvato Analytics.   
 
 # Prerequisites
-Anaconda 3 https://www.anaconda.com/distribution/
-Scikit-Learn
-Pandas
-Matplotlib
-Seaborn
+- Anaconda 3 https://www.anaconda.com/distribution/
+- Scikit-Learn
+- Pandas
+- Matplotlib
+- Seaborn
 
 # Files
 - AZDIAS_Feature_Summary.csv - feature summary file
