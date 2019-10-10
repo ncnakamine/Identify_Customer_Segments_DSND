@@ -11,10 +11,10 @@ Matplotlib
 Seaborn
 
 # Files
-AZDIAS_Feature_Summary.csv - feature summary file
-Data_Dictionary.md - data dictionary 
-data.zip - zip file with data for analyses
-Identify_Customer_Segments.ipynb - notebook with analyses and findings. Includes EDA, data cleaning, feature transformation, dimensionality reduction, and k-means clustering.  
+- AZDIAS_Feature_Summary.csv - feature summary file
+- Data_Dictionary.md - data dictionary 
+- data.zip - zip file with data for analyses
+- Identify_Customer_Segments.ipynb - Notebook with analyses and findings. Includes EDA, data cleaning, feature transformation, dimensionality reduction, and k-means clustering.  
 
 
 # Citations 
